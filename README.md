@@ -4,7 +4,8 @@ This script is for my current hosting on Gridpane, once I found the plugin that 
 
 ## TODO
 
-- [ ] Creat template file for Bash
-- [ ] Manually setup the comand and test if it is working
-- [ ] Add paramiters to the script so it takes URL and PLUGIN NAME as variables.
+- [x] Creat template file for Bash
+- [x] Manually setup the comand and test if it is working
+- [x] Add paramiters to the script so it takes URL and PLUGIN NAME as variables.
+- [x] Test it locally
 - [ ] Test it on the server
